@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from './Button.jsx';
+import Button from '../components/Core/HomePage/Button';
 
 import {FaArrowRight} from "react-icons/fa"
 import { TypeAnimation } from 'react-type-animation'

@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaArrowRightLong } from 'react-icons/fa6';
 import { Link } from 'react-router-dom';
-import Button from './Button.jsx';
+import Button from '../components/Core/HomePage/Button';
 import Banner from '../assets/Images/banner.mp4';
 import HighlightText from '../components/Core/HomePage/HighlightText';
 import CodeBlocks from '../components/Core/HomePage/CodeBlocks';
